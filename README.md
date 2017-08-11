@@ -6,5 +6,7 @@
 - Add class & Remove class
 - Play & rewind audio
 
-### Demo
-Coming soon.. 
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_drumkit)
+
+Demo: Coming soon.. 
