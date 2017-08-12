@@ -10,3 +10,13 @@
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_drumkit)
 
 Demo: Coming soon.. 
+
+## Day 2 - Clock
+- css variables (transform, transition ...)
+- js date
+- js set interval
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_clock)
+
+Demo: Coming soon.. 
