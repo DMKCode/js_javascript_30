@@ -12,11 +12,20 @@ Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_dr
 Demo: Coming soon.. 
 
 ## Day 2 - Clock
-- css variables (transform, transition ...)
+- css properties (transform, transition ...)
 - js date
 - js set interval
 
 ### Code & Demo
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_clock)
+
+Demo: Coming soon.. 
+
+## Day 3 - Update Css variables using javascript
+- css variables
+- dataset (object of data attributes e.g. data-sizing)
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_update_css_variables)
 
 Demo: Coming soon.. 
