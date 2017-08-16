@@ -40,3 +40,14 @@ Demo: Coming soon..
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/04-array_cardio_day_1)
 
 Demo: Coming soon.. 
+
+## Day 4 - Array cardio day 1 
+- Array.prototype.filter()
+- Array.prototype.map()
+- Array.prototype.sort() 
+- Array.prototype.reduce()
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/04-array_cardio_day_1)
+
+Demo: Coming soon.. 
