@@ -41,13 +41,10 @@ Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/04-ar
 
 Demo: Coming soon.. 
 
-## Day 4 - Array cardio day 1 
-- Array.prototype.filter()
-- Array.prototype.map()
-- Array.prototype.sort() 
-- Array.prototype.reduce()
+## Day 5 - Flex panels image gallery
+- Flexbox
 
 ### Code & Demo
-Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/04-array_cardio_day_1)
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/05_flex_panels_Image_gallery)
 
 Demo: Coming soon.. 
