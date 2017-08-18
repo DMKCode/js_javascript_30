@@ -9,7 +9,7 @@
 ### Code & Demo
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_drumkit)
 
-Demo: Coming soon.. 
+Demo: Coming soon... 
 
 ## Day 2 - Clock
 - css properties (transform, transition ...)
@@ -19,7 +19,7 @@ Demo: Coming soon..
 ### Code & Demo
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_clock)
 
-Demo: Coming soon.. 
+Demo: Coming soon... 
 
 ## Day 3 - Update Css variables using javascript
 - css variables
@@ -28,7 +28,7 @@ Demo: Coming soon..
 ### Code & Demo
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/js_update_css_variables)
 
-Demo: Coming soon.. 
+Demo: Coming soon... 
 
 ## Day 4 - Array cardio day 1 
 - Array.prototype.filter()
@@ -39,7 +39,7 @@ Demo: Coming soon..
 ### Code & Demo
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/04-array_cardio_day_1)
 
-Demo: Coming soon.. 
+Demo: Coming soon... 
 
 ## Day 5 - Flex panels image gallery
 - Flexbox
@@ -47,4 +47,4 @@ Demo: Coming soon..
 ### Code & Demo
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/05_flex_panels_Image_gallery)
 
-Demo: Coming soon.. 
+Demo: Coming soon... 
