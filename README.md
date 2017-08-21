@@ -48,3 +48,20 @@ Demo: Coming soon...
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/05_flex_panels_Image_gallery)
 
 Demo: Coming soon... 
+
+## Day 5 - Flex panels image gallery
+- Flexbox
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/05_flex_panels_Image_gallery)
+
+Demo: Coming soon... 
+
+## Day 6 - Ajax Type Ahead
+- fetch() 
+- RegExp
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/06-ajax_type_ahead)
+
+Demo: Coming soon... 
