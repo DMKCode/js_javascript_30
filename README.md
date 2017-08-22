@@ -65,3 +65,14 @@ Demo: Coming soon...
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/06-ajax_type_ahead)
 
 Demo: Coming soon... 
+
+## Day 7 - Array Cardio Day 2
+- Array.prototype.some()
+- Array.prototype.every()
+- Array.prototype.find()
+- Array.prototype.findIndex()
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/07-array_cardio_day_2)
+
+Demo: Coming soon... 
