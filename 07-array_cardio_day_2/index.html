@@ -38,10 +38,16 @@
 
     const isAdult = people.some(person => {
       const currentYear = (new Date()).getFullYear();
-      return currentYear -person.year >= 19;
+      return currentYear - person.year >= 19;
+    });
+    console.log({isAdult});
+
+    const allAdults = people.every(person => {
+      const currentYear = (new Date()).getFullYear();
+      return currentYear - person.year >= 19;
     });
 
-    console.log({isAdult});
+    console.log({allAdults});
 
   </script>
 </body>
