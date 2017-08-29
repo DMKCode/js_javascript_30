@@ -76,3 +76,11 @@ Demo: Coming soon...
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/07-array_cardio_day_2)
 
 Demo: Coming soon... 
+
+## Day 8 - Fun with HTML5 canvas
+- HTML5 Canvas 
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/07-array_cardio_day_2)
+
+Demo: Coming soon... 
