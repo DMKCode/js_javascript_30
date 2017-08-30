@@ -84,3 +84,11 @@ Demo: Coming soon...
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/08-fun_with_html5_canvas)
 
 Demo: Coming soon... 
+
+## Day 9 - Dev tools tricks
+- console 
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/09-dev_tool_tricks)
+
+Demo: Coming soon... 
