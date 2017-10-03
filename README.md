@@ -92,3 +92,12 @@ Demo: Coming soon....
 Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/09-dev_tool_tricks)
 
 Demo: Coming soon.... 
+
+## Day 10 - Hold Shift And Check Checkboxes
+- events
+- event object attributes
+
+### Code & Demo
+Code: [click here](https://github.com/DMKCode/js_javascript_30/tree/master/10-hold_shift_and_check_checkboxes)
+
+Demo: Coming soon.... 
